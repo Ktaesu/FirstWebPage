@@ -2963,7 +2963,7 @@
 			#header > .logo a {
 				font-size: 4rem;
 				font-weight: 700;
-				color: #FFF;
+				color: #ffffff;
 				text-decoration: none;
 				line-height: 1rem;
 			}
@@ -3109,11 +3109,11 @@
 
 	.wrapper.style2 {
 		background: #1e1f23;
-		padding: 6rem;
+		padding: 10px 15px 20px 25px;
 	}
 
 		.wrapper.style2 header {
-			background: #121315;
+			background: none;
 			border-radius: 4px 4px 0 0;
 		}
 

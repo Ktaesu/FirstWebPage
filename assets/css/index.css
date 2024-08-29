@@ -1,0 +1,19 @@
+body:after {
+    background-color: none;
+    background-image: url(../../images/new01.jpg);
+}
+
+#header > .logo a {
+    font-size: 4rem;
+    font-weight: 700;
+    color: whitesmoke
+}
+
+#main > .inner {
+   background-color: white;
+}
+
+.wrapper.style2 {
+    background: none;
+    padding: 6rem;
+}
